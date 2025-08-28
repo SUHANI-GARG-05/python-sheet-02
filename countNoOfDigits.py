@@ -5,7 +5,8 @@ if (num == 0):
 else:
     count = 0
     while (num > 0):
-        num //= 10  
+        num = num // 10  
         count = count + 1
 
 print("Number of digits:", count)
+
