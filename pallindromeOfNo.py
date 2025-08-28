@@ -1,6 +1,5 @@
-A = int(input("Enter an integer: "))
+num = int(input("Enter an integer: "))
 
-num = abs(A)
 original = num
 reverse = 0
 
